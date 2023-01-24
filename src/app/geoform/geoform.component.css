@@ -1,0 +1,8 @@
+.page_content_form_wrapper {
+  box-sizing: border-box;
+  width: 500px;
+  height: calc(100vH - 122px);
+  min-height: 200px;
+  margin: 0 auto;
+  padding: 140px 40px 40px 40px;
+}
